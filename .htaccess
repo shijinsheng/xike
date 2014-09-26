@@ -1,0 +1,28 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteRule ^default\.html$ default.php
+RewriteRule ^product\.html$ product.php
+RewriteRule ^scheme\.html$ scheme.php       
+RewriteRule ^supplie\.html$ supplie.php
+RewriteRule ^prlbtj_2\.html$ prlbtj_2.php
+RewriteRule ^service\.html$ download.php?typeid=240
+RewriteRule ^about\.html$ about.php?typeid=249
+RewriteRule ^product\_list\_([0-9]{1,})\.html$ product_list.php?typeid=$1
+RewriteRule ^scheme23\_([0-9]{1,})\.html$ scheme23.php?id=$1
+RewriteRule ^scheme\_list\_([0-9]{1,})\.html$ scheme_list.php?typeid=$1
+RewriteRule ^([a-zA-Z]{1,})_([0-9]{1,}).html$ $1.php?typeid=$2
+RewriteRule ^supplie2\.html$ supplie2.php
+RewriteRule ^product\_info([0-9]{1,})\_([0-9]{1,})\.html$ product_info.php?pid=$1&id=$2
+RewriteRule ^contrast\_([0-9]{1,})\.html$ contrast.php?typeid=$1
+RewriteRule ^contrast\.html$ contrast.php
+RewriteRule answer([0-9]{1,})\_([0-9]{1,})\.html$ answer.php?typeid=$1&pid=$2
+RewriteRule ^download\_a([0-9]{1,})\.html$ download_a.php?did=$1
+RewriteRule ^([_a-zA-Z]{1,})([0-9]{1,})\_([0-9]{1,})\.html$ $1.php?typeid=$2&id=$3
+RewriteRule ^maps\.html$ maps.php
+RewriteRule ^d\_download((.*))\.html$ d_download.php?path=$1
+RewriteRule ^result\_((.*))\.html$ result.php?sn=$1
+RewriteRule ^prSearch\_((.*))\.html$ prSearch.php?stat=1c_kind=2&amp;key=$1
+RewriteRule ^search\_((.*))\.html$ search.php?stat=1c_kind=2key=$1
+RewriteRule ^newsinfo([0-9]{1,})\.html$ newsinfo.php?id=$1
+RewriteRule ^newshd85\.html$ newshd85.php
+</IfModule>
