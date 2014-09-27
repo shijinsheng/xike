@@ -10,9 +10,6 @@ $db=new DB();
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="keywords" content="西科,成都西科,西科光端机,成都西科高新技术有限公司" />
     <meta name="description" content="成都西科高新技术有限公司生产高性能的光端机、光纤收发器、光纤交换机、poe交换机、工业交换机、网络摄像机，欢迎致电联系我们">
-    <meta name="baidu-site-verification" content="LD10I6bZyc" />
-    <meta name="360-site-verification" content="a3b7d66282a45f96ba1956c8e2cad6ab" />
-    <meta name="chinaz-site-verification" content="081e7651-48c6-4c2f-a569-99321685eab1" />
 	<title>光端机|光纤收发器|光纤交换机|poe交换机|工业交换机|网络摄像机-成都西科高新技术有限公司</title>
     <link href="css/style.css" type="text/css" rel="stylesheet" />
     <!--[if IE 6]>
