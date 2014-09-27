@@ -1,0 +1,87 @@
+/* CSS Document */
+
+/* content block 1 */
+#mcs_container {
+	position: relative;
+	width: 922px;
+	height: 350px;
+	top: 0px;
+}
+#mcs_container .customScrollBox {
+	position: relative;
+	height: 100%;
+	overflow: hidden;
+}
+#mcs_container .customScrollBox .container {
+	position: relative;
+	width: 905px;
+	top: 0;
+	float: left;
+}
+#mcs_container .customScrollBox .content {
+	clear: both;
+}
+#mcs_container .customScrollBox img {
+	border: 5px;
+	margin-top: 5px;
+}
+#mcs_container .dragger_container {
+	position: relative;
+	width: 10px;
+	height: 350px;
+	float: left;
+	background-color: #CECECE;
+cursor:pointer -moz-border-radius:2px;
+	-khtml-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	cursor: s-resize;
+}
+#mcs_container .dragger {
+	position: absolute;
+	width: 10px;
+	height: 60px;
+	background: #C42640;
+	text-align: center;
+	line-height: 60px;
+	color: #666;
+	overflow: hidden;
+	cursor: pointer;
+	-moz-border-radius: 2px;
+	-khtml-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+}
+#mcs_container .dragger_pressed {
+	position: absolute;
+	width: 10px;
+	height: 60px;
+	background: #C42640;
+	text-align: center;
+	line-height: 60px;
+	color: #666;
+	overflow: hidden;
+	-moz-border-radius: 4px;
+	-khtml-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	cursor: s-resize;
+}
+.prtc7 {
+	height: auto;
+	padding-top: 0;
+	height: 29px;
+	float: left;
+	width: 240px;
+	padding-left: 15px;
+}
+.prtc7 a {
+	background: none;
+	border: none;
+	display: inline;
+	float: none;
+	margin-top: 0;
+	width: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+}

@@ -1,0 +1,88 @@
+/* scheme23cssÑùÊ½ */
+.newsbody{ width:1178px; margin:0 auto; padding-top:21px;}
+.newsbodyr{ float:left; width:947px;}
+.xgy1{ background:url("../images/xgpic7.jpg") no-repeat left; padding-left:26px; height:30px; }
+.xgy1 a{ font-size:18px; line-height:30px; color:#3b3b3b;}
+.xgy1 a:hover{ text-decoration:underline; color:#C4271E;}
+.xgy2{ height:5px; overflow:hidden; width:100%; background:#D71920;}
+.xgy3{ background:#F4F4F4; border-top:1px solid #DFDFDF; padding-top:9px; padding-bottom:19px;border-bottom:1px solid #DFDFDF;}
+.xgy4{ color:#2b2f34; font-size:16px; padding-left:30px; line-height:26px; padding-bottom:10px;}
+.xgy5{ padding-left:12px;}
+.xgy5 ul li{ float:left; width:272px; padding-left:18px; padding-right:18px; height:auto !important; min-height:144px; height:144px;}
+.xgy6{ color:#BC241C; font-size:14px; line-height:22px; padding-bottom:4px;}
+.xgy6 a{ color:#C4261D; font-size:14px;}
+.xgy6 a:hover{ color:#C4261D; font-size:14px;text-decoration:underline;}
+.xgy9{ padding-top:21px; padding-bottom:9px;}
+.jjfanyba{ width:947px; height:257px;}
+.jjfany{ border:1px solid #DEDEDE; border-top:none; width:945px; background:#fff;}
+.jjfany1{ color:#4c4d4f; font-size:14px; line-height:26px; padding-left:26px; padding-right:36px; padding-top:24px; padding-bottom:44px;background: #EEE; padding-bottom: 24px;}
+.xgdg9{ padding-left:32px; padding-bottom:9px; padding-top:9px;}
+.nbrbodynewl{ float:left; width:154px; height:102px; border:1px solid #C1C1C1; text-align:center;}
+.xgdg6{ float:left; width:710px; padding-left:28px;}
+.xgdg7{  color:#444;}
+.xgdg7 a{color:#C4261D; line-height:18px; display:block; float:left; font-size:14px;}
+.xgdg7 a:hover{ text-decoration:underline; color:#C4261D;}
+.xgdg7 span{ line-height:18px; color:#999; display:block; float:left; padding-left:9px;}
+.xgdg8{ color:#666; line-height:22px; padding-top:6px;}
+.xgdg8 a{ color:#666;line-height:26px;}
+.xgdg8 a:hover{ text-decoration:underline; color:#C4261D;}
+.xgy10{ border-bottom:1px solid #DFDFDF; border-top:1px solid #DFDFDF; background:#F4F4F4; margin:0 auto;}
+.prxz22{ width:934px; padding-top:5px; padding-bottom:25px; margin:0 auto;}
+.prxz22 ul li{ float:left; width:886px; line-height:28px; padding-left:25px; padding-right:23px;}
+.prxz22 ul li a{ display:block; background:url(../images/xgy2.png) no-repeat left; padding-left:20px; color:#666; font-size:14px; float:left;}
+.prxz22 ul li a:hover{ text-decoration:underline; color:#C4271E;}
+.prxz22 ul li span{ display:block; float:right;color:#666;font-size:14px;}
+.prnav10{ width:208px; float:left; padding-left:13px; padding-right:13px; padding-bottom:16px;}
+.prnav11{width:208px; border-bottom:1px solid #E1E1E1; line-height:20px; padding-bottom:14px;}
+.prnav11 a{font-family:"Î¢ÈíÑÅºÚ"; font-size:16px; color:#C4261D; padding-left:6px;}
+.prnav11 a:hover{ text-decoration:underline;}
+.prnav11 img{ vertical-align:middle;}
+.prnav10 ul{ padding-top:5px;}
+.prnav10 ul li{width:95px; float:left; padding-left:9px;}
+.prnav10 ul li a{ background:url(../images/nbrbodynewr3a.png) no-repeat left; font-family:"Î¢ÈíÑÅºÚ"; font-size:14px; line-height:24px; color:#4c4d4f; padding-left:9px;}
+.prnav10 ul li a:hover{ text-decoration:underline; color:#C4261D;}
+.prnav12{ background:#818181; width:193px; padding-left:4px; padding-right:4px;}
+.prnav13{ border-bottom:1px solid #9D9D9D; padding-left:5px;}
+.prnav13 a{ display:block; float:left; background:url(../images/xgpic1.png) no-repeat; width:22px; height:22px; margin-top:12px;}
+.prnav13 span{font-family:"Î¢ÈíÑÅºÚ"; font-size:14px; color:#fff; line-height:45px; padding-left:11px; display:block; float:left;}
+.prnav14{ padding:16px 0 17px 8px;border-bottom:1px solid #9D9D9D;}
+.prnav14 input{ border:1px solid #DFDFDF; height:24px; line-height:24px; color:#888; overflow:hidden; width:111px; float:left; padding-left:5px; padding-right:8px; margin-right:5px;}
+.prnav14 a{ display:block; color:#fff; background:#363636; width:45px; height:26px; line-height:26px; float:left; text-align:center;}
+.prnav15{ padding:15px 0 11px 10px;border-bottom:1px solid #9D9D9D; }
+.prnav16{ color:#fff; line-height:18px;}
+.prnav17{ font-family:Arial; background:url(../images/xgpic2.png) no-repeat left; padding-left:17px; line-height:26px; color:#fff;}
+.prnav17 a{ color:#fff;}
+.prnav17 a:hover{ text-decoration:underline;}
+.prnav18{ font-family:Arial;background:url(../images/xgpic3.png) no-repeat left;padding-left:17px;line-height:26px; color:#fff;}
+.prnav19{ padding:15px 0 10px 10px;border-bottom:1px solid #DFDFDF;}
+.prnav20{ color:#fff; background:url(../images/xgpic5.jpg) no-repeat left; padding-left:7px; margin-left:4px; line-height:18px; padding-top:3px;}
+.prnav20 a{color:#fff;}
+.prnav20 a:hover{ text-decoration:underline;}
+.prnav21{ color:#9c9c9c; line-height:16px; padding-left:13px; padding-right:14px; padding-top:2px;padding-bottom:5px;}
+.prnav22{ padding:10px 0 10px 13px;}
+.prnav22 a{ color:#fff; background:url(../images/xgpic4.png) no-repeat left; padding-left:30px; line-height:20px;} 
+.prnav22 a:hover{ text-decoration:underline;}
+.clearfix {zoom:1;}
+
+/* °´Å¥ÑùÊ½ */
+.prxz22 {height: 305px;padding-bottom: 0;}
+.xgy9 { padding-bottom: 21px;}
+.xgy8 a {float: left;}
+ .tena { position: absolute;top: 0;right: 37px;color: #666;font-size: 14px;font-family: 'Î¢ÈíÑÅºÚ';}
+a.tena:hover {text-decoration: underline;}
+.famore {position: absolute;height: 16px;right: 17px;top: 9px;}
+.famore a {display: block;float: left; width: 16px;height: 16px;background: #D6D6D6;text-align: center;line-height: 16px;font-family: "Î¢ÈíÑÅºÚ";color: #575757;margin-right: 6px;font-size: 12px;}
+.famore a:hover {background: #D13330;color: #fff;}
+.famore a.famoreoa {background: #D13330;color: #fff;}
+.xgyx {overflow: hidden;position: relative;height: 144px;width: 924px;}
+.xgy5 {display: block;width: 2720px;position: absolute;display: inline;height: 144px;overflow: hidden;}
+.xgy5 ul li {display: block;width: 272px;height: 144px;overflow: hidden;}
+.famore span {padding: 2px 5px;cursor: pointer;float: left;margin: 0 5px;display: inline;height: 20px;line-height: 20px;}
+.famore span.num {line-height: 18px;}
+.famore span.num li {float: left;width: 16px;height: 16px;margin-right: 6px;line-height: 16px;text-align: center;color: #575757;background: #D6D6D6;font-size: 12px;}
+.famore span.num .numcur {background: #D13330;color: #fff;font-size: 12px;}
+ol {margin: 0;padding: 0;font-style: normal;font-weight: normal;}
+
+/**/
+
+

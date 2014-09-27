@@ -1,0 +1,32 @@
+/* CSS Document */
+
+.indexpf4 a {
+        background-image: none;
+        height: auto;
+        width: auto;
+    }
+
+        .indexpf4 a:hover {
+            background: none;
+            height: auto;
+            width: auto;
+        }
+
+    .indexpf3 ul li a {
+        background-image: none;
+        height: auto;
+        width: auto;
+    }
+
+        .indexpf3 ul li a:hover {
+            background-image: none;
+            height: auto;
+            width: auto;
+        }
+		.yuyan{ float:right; width:185px; height:20px; z-index:1001;}
+		.yuyan1{ width:175px; height:20px; background:url(images/xl_03.jpg) no-repeat; padding-left:10px; line-height:20px; color:#333; cursor:pointer; font-size:11px; font-family:Verdana; position:relative; z-index:1001;}
+		.yuyan2{ position:absolute; top:19px; left:0; width:183px; border:1px solid #C4BDAA;z-index:1001; background:#fff; padding-bottom:6px; display:none;}
+		.yuyan2 ul li{  float:left; width:183px; height:20px; line-height:20px;}
+		.yuyan2 ul li a{padding:3px 0 0 8px; color:#333; display:block; width:175px;font-family:Verdana;}
+		.yuyan2 ul li a:hover{ background:#EBEBEB;}
+

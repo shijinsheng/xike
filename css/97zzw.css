@@ -1,0 +1,66 @@
+@charset "utf-8";
+* {
+	margin:0;
+	padding:0;
+	list-style-type:none;
+}
+a, img {
+	border:0;
+}
+table {
+	empty-cells:show;
+	border-collapse:collapse;
+	border-spacing:0;
+}
+.demos {
+	width:914px;
+	margin:0 auto;
+}
+/* floatdiv */
+.floatdiv {
+	position:fixed;
+	top:240px;
+	right:0;
+	z-index:9999;
+	width:100%;
+}
+*html, *html body /* 修正IE6振动bug */ {
+	background-image:url(about:blank);
+	background-attachment:fixed;
+}
+*html .floatdiv {
+	position:absolute;
+top:expression(eval(document.documentElement.scrollTop));
+}
+.floatdiv {
+	background:url(../images/dialog_bg.gif) no-repeat;
+	width:180px;
+	height:208px;
+	overflow:hidden;
+}
+.floatdiv h5 {
+	color:#fff;
+	font-size:12px;
+	height:30px;
+	line-height:30px;
+	overflow:hidden;
+	padding:0 0 0 5px;
+}
+.floatdiv h5 a {
+	float:right;
+	margin:5px 30px 0 0;
+	display:inline;
+}
+.floatdiv ul {
+	height:130px;
+	overflow:hidden;
+	padding:10px 10px 5px 20px;
+}
+.floatdiv ul li {
+	height:24px;
+	line-height:24px;
+	font-size:12px;
+}
+.floatdiv ul li img {
+	margin:0 5px 0 0;
+}

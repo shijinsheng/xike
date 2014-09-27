@@ -1,0 +1,79 @@
+/* CSS Document */
+
+  /* content block 1 */
+        #mcs_container {
+            position: relative;
+            width: 922px;
+            height: 450px;
+            top: 0px;
+        }
+
+            #mcs_container .customScrollBox {
+                position: relative;
+                height: 100%;
+                overflow: hidden;
+            }
+
+                #mcs_container .customScrollBox .container {
+                    position: relative;
+                    width: 914px;
+                    top: 0;
+                    float: left;
+                }
+
+                #mcs_container .customScrollBox .content {
+                    clear: both;
+                }
+
+                #mcs_container .customScrollBox img {
+                    border: 5px;
+                    margin-top: 5px;
+                }
+
+            #mcs_container .dragger_container {
+                position: relative;
+                width: 2px;
+                height: 450px;
+                float: left;
+                background-color: #9d5330;
+                cursor: pointer -moz-border-radius:2px;
+                -khtml-border-radius: 2px;
+                -webkit-border-radius: 2px;
+                border-radius: 2px;
+                cursor: s-resize;
+            }
+
+            #mcs_container .dragger {
+                position: absolute;
+                width: 2px;
+                height: 60px;
+                background: #999;
+                text-align: center;
+                line-height: 60px;
+                color: #666;
+                overflow: hidden;
+                cursor: pointer;
+                -moz-border-radius: 2px;
+                -khtml-border-radius: 2px;
+                -webkit-border-radius: 2px;
+                border-radius: 2px;
+            }
+
+            #mcs_container .dragger_pressed {
+                position: absolute;
+                width: 4px;
+                margin-left: -1px;
+                height: 60px;
+                background: #999;
+                text-align: center;
+                line-height: 60px;
+                color: #666;
+                overflow: hidden;
+                -moz-border-radius: 4px;
+                -khtml-border-radius: 4px;
+                -webkit-border-radius: 4px;
+                border-radius: 4px;
+                cursor: s-resize;
+            }
+			.prxz1 td div{ width:200px;word-break: break-all; padding-top:5px; padding-bottom:5px;}
+			

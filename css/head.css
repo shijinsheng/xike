@@ -1,0 +1,166 @@
+*{margin:0; padding:0; border:0; list-style:none;
+}
+em,sapn{margin;0; padding:0; border:0;}
+
+.wrapmy {
+	MARGIN: -20px auto  0px auto; WIDTH: 950px;
+}
+#wrapper {
+	BACKGROUND: url(../indeximages/divider-3.gif) repeat-x 0px 28px
+}
+#header {
+	CLEAR: both
+}
+#top {
+	CLEAR: both
+}
+#logo {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 59px; PADDING-TOP: 10px
+}
+#topnav {
+	LINE-HEIGHT: 29px; BACKGROUND: url(../indeximages/divider.gif) repeat-y 0px 50%; FLOAT: right; HEIGHT: 29px
+}
+#topnav UL LI {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 29px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; BACKGROUND: url(../indeximages/divider.gif) repeat-y right 0px; FLOAT: left; HEIGHT: 29px; COLOR: #5f9729; FONT-SIZE: 12px; PADDING-TOP: 0px
+}
+#topnav UL LI A {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 5px; PADDING-LEFT: 16px; PADDING-RIGHT: 0px; COLOR: #666; FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+#topnav UL LI IMG {
+	MARGIN-TOP: 7px
+}
+#topnav UL LI STRONG {
+	COLOR: #666; MARGIN-RIGHT: 3px
+}
+#topnav UL LI A.top_ico_0 {
+	BACKGROUND: url(../indeximages/top_ico_0.gif) no-repeat 0px 2px; COLOR: #ff0000
+}
+#topnav UL LI A.top_ico_1 {
+	BACKGROUND: url(../indeximages/top_ico_1.gif) no-repeat 0px 3px; COLOR: #40661c
+}
+#topnav UL LI A.top_ico_2 {
+	BACKGROUND: url(../indeximages/top_ico_2.gif) no-repeat 0px 3px
+}
+#topnav UL LI A.top_ico_3 {
+	BACKGROUND: url(../indeximages/top_ico_3.gif) no-repeat 0px 3px
+}
+#topnav UL LI A.top_ico_4 {
+	BACKGROUND: url(../indeximages/top_ico_4.gif) no-repeat 0px 3px
+}
+#topnav UL LI A.top_ico_5 {
+	BACKGROUND: url(../indeximages/top_ico_5.gif) no-repeat 0px 3px
+}
+#topnav UL LI A.top_ico_6 {
+	BACKGROUND: url(../indeximages/top_ico_6.gif) no-repeat 0px 2px
+}
+
+
+
+#nav {
+	LINE-HEIGHT: 54px; BACKGROUND: url(../indeximages/bg1.gif); HEIGHT: 54px; CLEAR: both; 
+}
+#nav UL {
+	BACKGROUND: none transparent scroll repeat 0% 0%; 
+}
+#nav UL LI {
+	Z-INDEX: 99999; POSITION: relative; PADDING-RIGHT: 3px; BACKGROUND: url(../indeximages/nav-sep.gif) repeat-y right 0px; FLOAT: left; FONT-SIZE: 12px
+}
+#nav UL LI A {
+	DISPLAY: block; FLOAT: left; HEIGHT: 54px; CURSOR: pointer; TEXT-DECORATION: none
+}
+
+
+#nav UL LI A SPAN {
+	DISPLAY: block; FLOAT: left; HEIGHT: 54px; CURSOR: pointer; TEXT-DECORATION: none; 
+}
+#nav UL LI A {
+	POSITION: relative; COLOR: #ccc; FONT-WEIGHT: normal;
+	
+}
+#nav UL LI A SPAN {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 16px; PADDING-LEFT: 50px; WIDTH: 60px; PADDING-RIGHT: 20px; PADDING-TOP: 12px; 
+}
+#nav UL LI A EM {
+	POSITION: absolute; TEXT-TRANSFORM: capitalize; TOP: 10px; LEFT: 50px;
+	
+}
+#nav UL LI.on A {
+	BACKGROUND: #c8161d; COLOR: #fff
+}
+#nav UL LI.on A:hover {
+	BACKGROUND: #525252; COLOR: #fff
+}
+#nav UL LI UL {
+	Z-INDEX: 9988; POSITION: absolute;  WIDTH: 180px; DISPLAY: none; BACKGROUND: #525252; OVERFLOW: hidden; TOP: 53px; LEFT: 0px; 
+}
+#nav UL LI UL LI {
+	LINE-HEIGHT: 30px; WIDTH: 180px; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 30px;padding:0px; margin:0px;
+}
+#nav UL LI UL LI.first {
+	MARGIN-TOP: 10px
+}
+#nav UL LI UL LI SPAN {
+	DISPLAY: none
+}
+#nav UL LI UL LI A {
+	LINE-HEIGHT: 30px;  WIDTH: 180px; BACKGROUND: url(../indeximages/divider-2.gif) repeat-x 0px 33px; HEIGHT: 30px; COLOR: #ccc; 
+}
+#nav UL LI.action A {
+	BACKGROUND: #525252
+}
+#nav UL LI.action A {
+	COLOR: #fff
+}
+#nav UL LI.action UL LI A {
+	BACKGROUND: url(../indeximages/divider-2.gif) repeat-x 0px 30px
+}
+#nav UL LI.on UL LI A {
+	BACKGROUND: url(../indeximages/divider-2.gif) repeat-x 0px 30px
+}
+#nav UL LI.action UL LI A:hover {
+	BACKGROUND: url(../indeximages/divider-2.gif) #313435 repeat-x 0px 30px; COLOR: #fff
+}
+#nav UL LI.on UL LI A:hover {
+	BACKGROUND: url(../indeximages/divider-2.gif) #313435 repeat-x 0px 30px; COLOR: #fff
+}
+#nav UL LI UL LI A SPAN {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; MARGIN: 0px; PADDING-LEFT: 20px; WIDTH: 160px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 30px; CURSOR: pointer; PADDING-TOP: 0px
+}
+#nav UL LI UL LI A EM {
+	DISPLAY: none
+}
+#nav_0 SPAN {
+	BACKGROUND: url(../indeximages/home.gif) no-repeat 20px 13px
+}
+#nav_44 SPAN {
+	BACKGROUND: url(../indeximages/article.gif) no-repeat 20px 13px
+}
+#nav_4 SPAN {
+	BACKGROUND: url(../indeximages/book.gif) no-repeat 20px 13px
+}
+#nav_23 SPAN {
+	BACKGROUND: url(../indeximages/image.gif) no-repeat 20px 13px
+}
+#nav_17 SPAN {
+	BACKGROUND: url(../indeximages/heart.gif) no-repeat 20px 13px
+}
+#nav_52 SPAN {
+	BACKGROUND: url(../indeximages/plus.gif) no-repeat 20px 13px
+}
+#nav_53 SPAN {
+	BACKGROUND: url(../indeximages/lxwm.gif) no-repeat 20px 13px
+}
+
+
+#search {
+	MARGIN-TOP: 38px; WIDTH: 230px; FLOAT: right; MARGIN-LEFT: 50px
+}
+#search .inputbox {
+	BORDER-BOTTOM: #cacccd 1px solid; BORDER-LEFT: #cacccd 1px solid; LINE-HEIGHT: 28px; MARGIN: 0px; PADDING-LEFT: 20px; WIDTH: 170px; BACKGROUND: url(../indeximages/icon-search.png) #fff no-repeat 3px 50%; FLOAT: left; HEIGHT: 28px; COLOR: #666; BORDER-TOP: #cacccd 1px solid; BORDER-RIGHT: #cacccd 0px solid
+}
+#search .button {
+	BORDER-BOTTOM: #828282 1px solid; BORDER-LEFT: #828282 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; BACKGROUND: #c8161d; FLOAT: left; HEIGHT: 30px; COLOR: #fff; BORDER-TOP: #828282 1px solid; BORDER-RIGHT: #828282 1px solid; PADDING-TOP: 0px
+}
+/*2013-8-9 add*/
+ #qq_bar{width:260px; height:23px; position: absolute; left:550px; top:45px;}
+ #qq_bar a{display: inline-block; width: 74px; height: 23px; margin-left: 2px; }
