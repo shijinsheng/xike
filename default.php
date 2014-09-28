@@ -71,7 +71,7 @@ $db=new DB();
 	while($result_slide=mysql_fetch_array($sql_slide)){
 	?>
 		<div class="slide autoMaxWidth"  links=[{left:'30px',top:'81px'},{left:'30px',top:'244px'},{direction:'tb'}]>	  		
-			<div class="image" id='bi_1' style=""><img  src="http://localhost/xike/<?php echo $result_slide['filepath']; ?>" width="100%" height="100%" /></div>			
+			<div class="image" id='bi_1' style=""><img  src="http://localhost/xike<?php echo $result_slide['filepath']; ?>" width="100%" height="100%" /></div>			
 			<div class="text" id='bt_1'></div>
 			<div class="button" id='bb_1'></div>
 		</div>

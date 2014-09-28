@@ -157,7 +157,7 @@ a.navnewdq{font-size:14px; padding-right:30px; display:block; height:35px; line-
 .newsxxpltop1 span{ font-size:14px; color:#666; display:block; float:left; font-weight:bold; line-height:22px; padding-left:4px; padding-right:10px;}
 .newsxxpltop1 a{ display:block; float:left; background:url(../images/newsxxxxm.jpg) no-repeat; width:23px; height:22px; margin-right:5px;}
 
-.newsxxpltop1 a.newsxxpltop1oa{background:url(../images/newsxxxxl.jpg) no-repeat;}
+.newsxxpltop1 a.newsxxpltop1oa{background:url(../images/newsxxxx.jpg) no-repeat;}
 
 .newsxxpltop2{ float:left; padding-left:5px; padding-top:3px;}
 .newsxxpltop2 a{ font-size:14px;color:#666;}
@@ -442,36 +442,6 @@ a.navnewdq{font-size:14px; padding-right:30px; display:block; height:35px; line-
 .indexbo2 a{ color:#fff;}
 .indexbo2 a:hover{ text-decoration:underline;}
 .indexbo2 span{ font-family:"微软雅黑"; padding-left:3px; padding-right:3px;}
-
-/*首页导航栏*/
-.indexnav{ background:url(../images/navbg.jpg) repeat-x; height:35px;}
-.indexnavfr{ height:35px; float:left;}
-.indexnavfr ul.clearfix{ float:left;}
-.indexnavfra1{ float:left; height:35px; padding-left:13px; padding-right:13px;}
-.indexnavfra2{ float:left; height:35px; padding-left:13px; padding-right:13px;}
-.indexnavfra3{ float:left; height:35px; padding-left:13px; padding-right:13px;}
-.indexnavfra4{ float:left; height:35px; padding-left:13px; padding-right:13px;}
-.indexnavfra5{ float:left; height:35px; padding-left:13px; padding-right:13px;}
-.indexnavfra6{ float:left; height:35px; padding-left:13px; padding-right:13px;}
-.indexnavfra1 div.navoaa a{ background:url(../images/indexdh1.jpg) no-repeat; height:35px; width:99px;display:block;}
-.indexnavfra1 div.navoaa a.indexnavfra1oa{background:url(../images/indexdh1a.jpg) no-repeat; height:35px; width:99px;}
-.indexnavfra1 div.navoaa a:hover{ background:url(../images/indexdh1a.jpg) no-repeat; height:35px; width:99px;}
-.indexnavfra2 div.navoaa a{display:block; background:url(../images/indexdh2.jpg) no-repeat; height:35px; width:99px;}
-.indexnavfra2 div.navoaa a.indexnavfra2oa{background:url(../images/indexdh2a.jpg) no-repeat; height:35px; width:99px;}
-.indexnavfra2 div.navoaa a:hover{ background:url(../images/indexdh2a.jpg) no-repeat; height:35px; width:99px;}
-.indexnavfra3 div.navoaa a{display:block; background:url(../images/indexdh3.jpg) no-repeat; height:35px; width:99px;}
-.indexnavfra3 div.navoaa a:hover{ background:url(../images/indexdh3a.jpg) no-repeat; height:35px; width:99px;}
-.indexnavfra3 div.navoaa a.indexnavfra3oa{background:url(../images/indexdh3a.jpg) no-repeat; height:35px; width:99px;}
-.indexnavfra4 div.navoaa a{display:block; background:url(../images/indexdh4.jpg) no-repeat; height:35px; width:99px;}
-.indexnavfra4 div.navoaa a.indexnavfra4oa{background:url(../images/indexdh4a.jpg) no-repeat; height:35px; width:99px;}
-.indexnavfra4 div.navoaa a:hover{ background:url(../images/indexdh4a.jpg) no-repeat; height:35px; width:99px;}
-.indexnavfra5 div.navoaa a{display:block; background:url(../images/indexdh5.jpg) no-repeat; height:35px; width:99px;}
-.indexnavfra5 div.navoaa a.indexnavfra5oa{background:url(../images/indexdh5a.jpg) no-repeat; height:35px; width:99px;}
-.indexnavfra5 div.navoaa a:hover{ background:url(../images/indexdh5a.jpg) no-repeat; height:35px; width:99px;}
-.indexnavfra6 div.navoaa a{display:block; background:url(../images/indexdh6.jpg) no-repeat; height:35px; width:114px;}
-.indexnavfra6 div.navoaa a.indexnavfra6oa{background:url(../images/indexdh6a.jpg) no-repeat; height:35px; width:99px;}
-.indexnavfra6 div.navoaa a:hover{ background:url(../images/indexdh6a.jpg) no-repeat; height:35px; width:114px;}
-
 
 
 /*首页下拉单*/
