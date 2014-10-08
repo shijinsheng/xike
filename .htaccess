@@ -10,6 +10,7 @@ RewriteRule ^about\.html$ about.php?typeid=249
 RewriteRule ^product\_list\_([0-9]{1,})\.html$ product_list.php?typeid=$1
 RewriteRule ^scheme23\_([0-9]{1,})\.html$ scheme23.php?id=$1
 RewriteRule ^scheme\_list\_([0-9]{1,})\.html$ scheme_list.php?typeid=$1
+RewriteRule ^schemes\_([0-9]{1,})\.html$ schemes.php?id=$1
 RewriteRule ^([a-zA-Z]{1,})_([0-9]{1,}).html$ $1.php?typeid=$2
 RewriteRule ^supplie2\.html$ supplie2.php
 RewriteRule ^product\_info([0-9]{1,})\_([0-9]{1,})\.html$ product_info.php?pid=$1&id=$2
